@@ -1,0 +1,11 @@
+{
+    "mongoDev": {
+        "db_name": "scrapingDB",
+        "mongo_auth_source": "admin",
+        "mongo_collection_fb_pages": "facebook_pages",
+        "mongo_password": "admin",
+        "mongo_port": 27017,
+        "mongo_uri": "mongo",
+        "mongo_username": "admin"
+    }
+}
